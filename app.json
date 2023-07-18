@@ -1,0 +1,19 @@
+{
+  "name": "ExpoUpdateIssueRepro",
+  "displayName": "ExpoUpdateIssueRepro",
+
+  "expo": {
+    "name": "ExpoUpdateIssueRepro",
+    "slug": "ExpoUpdateIssueRepro",
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.ExpoUpdateIssueRepro"
+    },
+    "android": {
+      "package": "com.ExpoUpdateIssueRepro"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "http://localhost:3000/api/manifest"
+    }
+  }
+}
